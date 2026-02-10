@@ -1,0 +1,21 @@
+- id: prettier
+  name: prettier
+  description: Format files with prettier.
+  entry: prettier --write --list-different --ignore-unknown
+  language: node
+  minimum_pre_commit_version: 2.9.0
+  types_or:
+    - css
+    - graphql
+    - html
+    - javascript
+    - json
+    - json5
+    - jsx
+    - less
+    - markdown
+    - scss
+    - tsx
+    - typescript
+    - vue
+    - yaml

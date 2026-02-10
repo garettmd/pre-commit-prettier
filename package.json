@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "description": "pre-commit hook for running prettier",
   "private": true,
+  "license": "MIT",
+  "author": "@garettmd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pre-commit-prettier/pre-commit-prettier.git"
+  },
+  "keywords": [
+    "pre-commit",
+    "prettier",
+    "formatter",
+    "code-formatting"
+  ],
   "dependencies": {
     "prettier": "^3.0.0"
   }

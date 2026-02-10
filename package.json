@@ -7,7 +7,7 @@
   "author": "@garettmd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pre-commit-prettier/pre-commit-prettier.git"
+    "url": "https://github.com/garettmd/pre-commit-prettier.git"
   },
   "keywords": [
     "pre-commit",

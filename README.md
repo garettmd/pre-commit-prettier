@@ -8,7 +8,7 @@ Add the following to your `.pre-commit-config.yaml`:
 
 ```yaml
 repos:
-  - repo: https://github.com/your-org/pre-commit-prettier
+  - repo: https://github.com/garettmd/pre-commit-prettier
     rev: v1.0.0
     hooks:
       - id: prettier
